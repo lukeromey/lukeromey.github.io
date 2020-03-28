@@ -63,7 +63,7 @@ h6{
 .header-transparent .sticky.navbar-default {
     }
 .header-transparent .navbar-default .navbar-nav>li>a{
-    }
+    color:#ffffff}
 .header-transparent .sticky.navbar-default .navbar-nav>li>a{
     }
 
@@ -152,11 +152,11 @@ body{
 
 a,
 a:focus{
-    color: #ef4836;
+    color: #cc0017;
 }
 
 a:hover {
-    color: #bd1604;
+    color: #9a0000;
 }
 
 
@@ -165,7 +165,7 @@ a:hover {
 }
 
 .section-intro h2 span{
-    color: #ef4836;
+    color: #cc0017;
 }
 
 .spotlight-card .tt-effect .theme-default-overlay,
@@ -260,7 +260,7 @@ span.separator span,
 .report-button a:hover,
 .tt-issue-wrapper .issue-inner:hover .issue-overlay,
 .tt-issue-wrapper .owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
-    background-color: #ef4836;
+    background-color: #cc0017;
 }
 
 
@@ -295,7 +295,7 @@ span.separator span,
 .woocommerce .product .entry-summary a.single_add_to_cart_button:focus,
 .woocommerce .product .entry-summary a.single_add_to_cart_button:active,
 .offcanvas-container .footer-sidebar .widget_mc4wp_form_widget .btn:hover{
-    background-color: #bd1604;
+    background-color: #9a0000;
 }
 
 .vc_tta-tabs-position-top .vc_tta-tab > a:hover,
@@ -314,7 +314,7 @@ span.separator span,
 .charitable-donation-amount-form .donation-amount.selected,
 .content-wrapper .campaign-inner .donate-button,
 .widget .charitable-submit-field .button{
-    background-color: #ef4836 !important;
+    background-color: #cc0017 !important;
 }
 
 
@@ -453,7 +453,7 @@ span.separator span,
 .widget.widget_charitable_campaigns_widget .time-left,
 .counter-wrapper .timer,
 .tt-issue-wrapper .owl-theme .owl-controls .owl-nav [class*=owl-]{
-    color: #ef4836;
+    color: #cc0017;
 }
 
 
@@ -497,7 +497,7 @@ span.separator span,
 .card-wrapper .title,
 .tt-charitable-donation.amount-btn-theme .charitable-donation-form .donation-amounts .donation-amount,
 .tt-charitable-donation.input-border-bottom .form-control:focus{
-    border-color: #ef4836;
+    border-color: #cc0017;
 }
 
 .charitable-donation-form .donation-amount.selected, 
@@ -505,30 +505,30 @@ span.separator span,
 .charitable-notice, 
 .charitable-drag-drop-images li:hover a.remove-image, 
 .supports-drag-drop .charitable-drag-drop-dropzone.drag-over{
-    border-color: #ef4836 !important;
+    border-color: #cc0017 !important;
 }
 
 .vc_tta-color-white.vc_tta-style-classic .vc_tta-tab>a:hover, 
 .vc_tta-color-white.vc_tta-style-classic .vc_tta-tab.vc_active>a{
-    border-color: #ef4836 !important;
+    border-color: #cc0017 !important;
 }
 
 .vc_tta-tabs.vc_tta-style-ultra-classic .vc_tta-tab.vc_active::after{
-    border-top-color: #ef4836;
+    border-top-color: #cc0017;
 }
 
 
 
 .tt-effect figcaption::before,
 .blog-wrapper .post-thumbnail .thumb-overlay{
-    background-color: rgba(239,72,54,.8);
+    background-color: rgba(204,0,23,.8);
 }
 
 .icon-block h3 a:hover,
 .more-link:hover,
 .widget_calendar table a:hover,
 .location-info a:hover{
-    color: #bd1604;
+    color: #9a0000;
 }
 
 
